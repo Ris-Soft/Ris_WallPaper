@@ -11,7 +11,7 @@
 ![image](https://github.com/PYLXU/Ris_WallPaper/assets/104706823/71b81217-00f7-438b-a157-0c779b1d11cc)
 
 ## 联系我们
-QQ群：216281979
+QQ群：939571490
 谢谢支持 也欢迎各位大佬提出Issues
 [请点击这里在issues反馈bug](https://github.com/PYLXU/Ris_WallPaper/issues)
 
