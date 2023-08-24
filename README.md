@@ -8,7 +8,7 @@
 
 ## 图片展示
 
-![image](https://github.com/PYLXU/Ris_WallPaper/assets/104706823/71b81217-00f7-438b-a157-0c779b1d11cc)
+![image](https://github.com/PYLXU/Ris_WallPaper/assets/104706823/2adedd18-2737-4092-bf36-19fe85fff8af)
 
 ## 联系我们
 QQ群：939571490
